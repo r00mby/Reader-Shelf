@@ -1,4 +1,4 @@
-# Book Explorer
+# Reader’s Shelf – Book Discovery Website
 
 A responsive educational website developed using HTML, CSS, and JavaScript. The website showcases books from different categories and provides users with a simple and organized browsing experience.
 
